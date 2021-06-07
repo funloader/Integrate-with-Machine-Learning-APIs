@@ -6,7 +6,7 @@ Your 5GB home directory will persist across sessions, but the VM is ephemeral an
 approximately 20 minutes after your session ends. No system-wide change will persist beyond that.
 
 Type "gcloud help" to get help on using Cloud SDK. For more examples, visit
-https://cloud.google.com/shell/docs/quickstart and https://cloud.google.com/shell/docs/examples
+(https://cloud.google.com/shell/docs/quickstart) and (https://cloud.google.com/shell/docs/examples)
 
 Type "cloudshell help" to get help on using the "cloudshell" utility.  Common functionality is
 aliased to short commands in your shell, for example, you can type "dl <filename>" at Bash prompt to
